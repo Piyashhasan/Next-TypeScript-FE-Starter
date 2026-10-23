@@ -3,7 +3,8 @@
 import { Button } from "@/components/ui/button";
 
 export default function RootPage() {
-  const myName: any = "Piyash Hasan";
+  const myName: string = "Piyash Hasan";
+
   return (
     <div>
       <h1>Next TypeScript Starter </h1>

@@ -3,7 +3,7 @@
 import { Button } from "@/components/ui/button";
 
 export default function RootPage() {
-  const myName: string = "Piyash Hasan";
+  const myName: number = "Piyash Hasan";
 
   return (
     <div>

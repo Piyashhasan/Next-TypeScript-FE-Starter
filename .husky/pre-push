@@ -1,0 +1,5 @@
+
+# git push --no-verify  - if you dont run build test & directly push code then use this flag
+
+echo "🔨 Running pre-push build check..."
+pnpm build
